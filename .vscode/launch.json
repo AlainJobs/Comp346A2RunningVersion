@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BlockManager3",
+            "request": "launch",
+            "mainClass": "Task3.BlockManager3",
+            "projectName": "PA_Demo_Tasks"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BlockManager1",
+            "request": "launch",
+            "mainClass": "Task1.BlockManager1",
+            "projectName": "PA_Demo_Tasks"
+        }
+    ]
+}
